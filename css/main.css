@@ -327,6 +327,7 @@ footer a:hover {text-decoration: underline;}
 .ps img {max-width: 230px;}
 
 .demo{ padding: 0 30px;}
+
 .demo:before {
     content: "";
     display: block;
